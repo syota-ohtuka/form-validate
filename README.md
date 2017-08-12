@@ -1,4 +1,3 @@
 # form-validate
--------
 
-##Qiitaのサンプルコードです。
+Qiitaのサンプルコードです。
